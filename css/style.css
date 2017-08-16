@@ -1,0 +1,16 @@
+body {
+  font-family: 'Saira', sans-serif;
+  color: #58D68D;
+}
+
+body, .jumbotron {
+  background-color: #1E2245;
+}
+
+.text-justify {
+  color: #aaaaaa;
+}
+
+#get-quote {
+  color: #aaaaaa;
+}
